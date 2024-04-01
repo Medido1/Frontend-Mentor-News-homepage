@@ -24,18 +24,15 @@ Users should be able to:
 ### Screenshot
 
   ## Desktop 
-  ![]()
-
-  ## Error state
-  ![]()
+  ![](./screenshots/desktop.png)
 
   ## Mobile 
-  ![]()
+  ![](./screenshots/mobile.png)
 
 
 ### Links
 
-- Solution URL: [solution]()
+- Solution URL: [solution](https://github.com/Medido1/Frontend-Mentor-News-homepage)
 - Live Site URL: [live site]()
 
 ## My process
