@@ -116,12 +116,13 @@ body {
 .main {
   gap: 2rem;
   padding: 1rem;
+  margin: 0 auto;
 }
 
 h1 {
   margin: 1rem 0;
-  font-size: 2.6rem;
-  font-weight: 700;
+  font-size: 2.75rem;
+  font-weight: 900;
   line-height: 1;
 }
 
